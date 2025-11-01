@@ -701,6 +701,14 @@
               "description": "Contribute to yonsum/PDMaas development by creating an account on GitHub.",
               "icon": "/assets/favicon_1761967688131.png",
               "enabled": true
+            },
+            {
+              "id": "site_1761967742296_jje5xtbb8",
+              "title": "GitHub - drawdb-io/drawdb: Free, simple, and intuitive online database diagram editor and SQL generator.",
+              "href": "https://github.com/drawdb-io/drawdb",
+              "description": "Free, simple, and intuitive online database diagram editor and SQL generator. - drawdb-io/drawdb",
+              "icon": "/assets/favicon_1761967736080.png",
+              "enabled": true
             }
           ]
         }
