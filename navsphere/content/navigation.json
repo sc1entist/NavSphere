@@ -686,6 +686,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "266ff619-9cab-4a3e-bf7d-561a73c12449",
+          "title": "数据库设计",
+          "icon": "Database",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
