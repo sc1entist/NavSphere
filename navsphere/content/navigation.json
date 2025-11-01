@@ -693,7 +693,16 @@
           "icon": "Database",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1761967702953_o2ixub53e",
+              "title": "GitHub - yonsum/PDMaas",
+              "href": "https://github.com/yonsum/PDMaas",
+              "description": "Contribute to yonsum/PDMaas development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1761967688131.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
