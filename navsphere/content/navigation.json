@@ -180,6 +180,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1edece12-415b-47e5-b096-80a94233142d",
+          "title": "国外",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
