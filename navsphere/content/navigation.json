@@ -1427,6 +1427,14 @@
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762498749656_tfxaayvy9",
+              "title": "Pexels",
+              "href": "https://www.pexels.com/",
+              "description": "",
+              "icon": "/assets/favicon_1762498718720.png",
+              "enabled": true
             }
           ]
         },
