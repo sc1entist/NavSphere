@@ -1446,7 +1446,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762484863414_rstbgwnw0",
+          "title": "github 个人主页配置",
+          "href": "https://blog.csdn.net/qq_38342510/article/details/144972296",
+          "description": "",
+          "icon": "/assets/favicon_1762484845018.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
