@@ -1435,6 +1435,14 @@
               "description": "",
               "icon": "/assets/favicon_1762498718720.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762498830432_hv679dbt0",
+              "title": "Best Free High Resolution Stock Photos &amp; Videos | ISO Republic",
+              "href": "https://isorepublic.com/",
+              "description": "",
+              "icon": "/assets/favicon_1762498819091.png",
+              "enabled": true
             }
           ]
         }
