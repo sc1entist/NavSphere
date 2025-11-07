@@ -172,7 +172,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "1735f8e5-95e3-4953-b84a-b656f5bbe2f2",
+          "title": "国内",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "9",
