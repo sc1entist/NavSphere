@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "site_1762418419543_78dzo0wps",
-          "title": "观影地址发布页",
-          "href": "https://www.gying.page/",
-          "description": "",
-          "icon": "/assets/favicon_1762418414233.png",
-          "enabled": true
-        },
-        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -125,7 +117,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762418419543_78dzo0wps",
+              "title": "观影地址发布页",
+              "href": "https://www.gying.page/",
+              "description": "",
+              "icon": "/assets/favicon_1762418414233.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "d9706cd3-edfa-4435-9e49-b17b5f7fce6a",
