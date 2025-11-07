@@ -1439,6 +1439,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1762484830676",
+      "title": "书签",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
