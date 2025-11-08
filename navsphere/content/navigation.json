@@ -1470,6 +1470,14 @@
           "description": "",
           "icon": "/assets/favicon_1762484845018.png",
           "enabled": true
+        },
+        {
+          "id": "1762582181193",
+          "title": "科安广告防护 - CoyAds.com 访客管理平台 对跨境电商广告非法访客和流量进行过滤、拦截和限制的cloak斗篷系统",
+          "href": "https://www.coyads.com/index.html",
+          "description": "科安广告防护是一个访客流量过滤、拦截和限制系统，拥有强大的全球实时IP数据库、跨境电商专用数据库、蜘蛛爬虫数据库、iCloud专用代理数据库和网络代理数据库等，利用先进的AI识别算法，锁定访客行为，帮客户过滤掉无效流量。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.coyads.com",
+          "enabled": true
         }
       ],
       "subCategories": []
