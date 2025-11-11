@@ -1481,6 +1481,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1762848060114",
+      "title": "黑苹果",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
