@@ -1488,7 +1488,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762848071958",
+          "title": "远景论坛",
+          "href": "https://bbs.pcbeta.com",
+          "description": "",
+          "icon": "/assets/favicon_1762848098807.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
