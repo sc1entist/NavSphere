@@ -1496,6 +1496,14 @@
           "description": "",
           "icon": "/assets/favicon_1762848098807.png",
           "enabled": true
+        },
+        {
+          "id": "1762848119646",
+          "title": "黑苹果星球",
+          "href": "https://heipg.cn",
+          "description": "",
+          "icon": "/assets/favicon_1762848124541.png",
+          "enabled": true
         }
       ],
       "subCategories": []
