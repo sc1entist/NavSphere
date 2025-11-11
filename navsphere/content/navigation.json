@@ -1504,6 +1504,14 @@
           "description": "",
           "icon": "/assets/favicon_1762848124541.png",
           "enabled": true
+        },
+        {
+          "id": "1762848139126",
+          "title": "国光黑苹果教程",
+          "href": "https://apple.sqlsec.com",
+          "description": "",
+          "icon": "/assets/favicon_1762848143894.png",
+          "enabled": true
         }
       ],
       "subCategories": []
