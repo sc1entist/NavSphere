@@ -1451,6 +1451,14 @@
               "description": "",
               "icon": "/assets/favicon_1762498856990.png",
               "enabled": true
+            },
+            {
+              "id": "1764142640423",
+              "title": "Pixabay",
+              "href": "https://pixabay.com/",
+              "description": "Find your perfect royalty-free image or video to download and use. ✓ Royalty-free ✓ No attribution required ✓ High quality images.",
+              "icon": "/assets/favicon_1764142644079.png",
+              "enabled": true
             }
           ]
         }
