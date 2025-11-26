@@ -1468,7 +1468,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764142767708",
+              "title": "Acgjc",
+              "href": "http://www.acgjc.com/",
+              "description": "",
+              "icon": "/assets/favicon_1764142771232.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
