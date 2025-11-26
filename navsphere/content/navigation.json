@@ -141,6 +141,14 @@
               "description": "",
               "icon": "/assets/favicon_1761724837449.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1764143070977_y2rbm4xfv",
+              "title": "Ventoy",
+              "href": "https://www.ventoy.net/cn/download.html",
+              "description": "Ventoy is an open source tool to create bootable USB drive for ISO files. With ventoy, you don",
+              "icon": "/assets/favicon_1764143062054.ico",
+              "enabled": true
             }
           ]
         }
