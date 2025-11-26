@@ -1461,6 +1461,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3c214dd8-1361-4757-a3af-6cbafd84666c",
+          "title": "音乐",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
