@@ -20,6 +20,14 @@
               "description": "",
               "icon": "/assets/favicon_1762418414233.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764143013777_z9d83ip0z",
+              "title": "Wepe",
+              "href": "https://www.wepe.com.cn/",
+              "description": "装系统",
+              "icon": "/assets/favicon_1764143001162.png",
+              "enabled": true
             }
           ]
         },
